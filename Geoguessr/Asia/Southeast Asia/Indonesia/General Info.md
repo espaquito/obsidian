@@ -16,4 +16,8 @@
 - ![[Pasted image 20261017102521.png]]
 
 ***
-### Lice
+### License plates
+- Indonesian motorcycles carry a front license plate, unlike other Southeast Asian countries
+- ![[Pasted image 20261017102616.png]]
+
+***
