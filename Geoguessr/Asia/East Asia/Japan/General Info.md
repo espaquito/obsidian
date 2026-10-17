@@ -15,4 +15,12 @@
 
 ***
 ### Utility Pole
-- Utility poles are round concrete with threaded screw-like posistio
+- Utility poles are round concrete with threaded screw-like protrusions and often electrical plates
+- Japanese poles often have thin, vertical yellow lines on a black section towards the bottom![[Pasted image 20261016190840.png]]
+
+***
+### Architecture
+- Traditional wooden rural houses are common in Japan
+- ![[Pasted image 20261016191116.png]]
+
+***
