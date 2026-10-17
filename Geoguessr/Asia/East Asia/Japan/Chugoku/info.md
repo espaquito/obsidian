@@ -7,4 +7,7 @@
 
 ***
 ### Architecture
-- Houses with red roof tiles are common in Chugoku, especially
+- Houses with red roof tiles are common in Chugoku, especially in Hiroshima and Shimane
+- ![[Pasted image 20261016191822.png]]
+
+***
