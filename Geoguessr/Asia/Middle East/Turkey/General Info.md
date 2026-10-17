@@ -1,5 +1,5 @@
 ***
-### Nature b
+### Nature
 
 - Arid plains are found in southeastern Turkey
 
