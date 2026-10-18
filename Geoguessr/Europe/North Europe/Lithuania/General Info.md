@@ -26,7 +26,8 @@
 - Lithuanian pedestrian signs have **3 stripes**. The shape of the pedestrian has a relatively low level of detail.
 - ![[Pasted image 20261018090706.png]]
 
-- 
+- Lithuanian directional signs are blue with white text.
+- ![[Pasted image 20261018091022.png]]
 ***
 ### Language
 - **Lithuanian** belongs to the Baltic languages. The other major member of this branch is Latvian, to which it is closely related.
@@ -46,3 +47,10 @@
 	This word is almost entirely unique to Lithuanian. However, very rarely, you might see ‘gatve’ (abbreviated as gat.) in the Latvian capital of Riga.
 
 - ![[Pasted image 20261018090838.png]]
+
+***
+### Architecture
+- Lithuanian architecture primarily consists of light coloured brick buildings, usually with somewhat steep corrugated metal roofs. Wooden buildings are also fairly common, however less so than in Estonia. Pastel painted stone buildings are somewhat common, especially in newer suburbs.
+- ![[Pasted image 20261018091042.png]]
+
+***
