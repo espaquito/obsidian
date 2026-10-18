@@ -28,3 +28,21 @@
 
 - 
 ***
+### Language
+- **Lithuanian** belongs to the Baltic languages. The other major member of this branch is Latvian, to which it is closely related.
+
+- Within the Baltic languages, the following letters are unique to Lithuanian:
+
+	- Vowels with small hooks: Ą Ę Į Ų.
+	    
+	- Ė with a single dot.
+	    
+	- Y (also in Estonian, but only in loan words).
+
+- ![[Pasted image 20261018090816.png]]
+
+- The Lithuanian word for street is **gatve**, often abbreviated as **g.** on signs and Google Maps.
+
+	This word is almost entirely unique to Lithuanian. However, very rarely, you might see ‘gatve’ (abbreviated as gat.) in the Latvian capital of Riga.
+
+- ![[Pasted image 20261018090838.png]]
