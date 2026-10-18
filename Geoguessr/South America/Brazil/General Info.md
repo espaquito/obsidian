@@ -13,4 +13,8 @@
 - Brazil is the only South American country that uses the Portuguese Language. It has the letter "ç"
 
 ***
+### Bollards
+- Brazil uses **yellow** on **black** chevrons, as opposed to most of South America, which use black on yellow chevrons.
+- ![[Pasted image 20261018092228.png]]
 
+***
